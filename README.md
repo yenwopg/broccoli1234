@@ -1,5 +1,3 @@
-</> Markdown
-
 CAS(Computer Algebra System)의 차이를 관찰할 수 있는 예시를 발견했습니다.
 
 f(x)=(x-1)^((x-2)^(x-3))
