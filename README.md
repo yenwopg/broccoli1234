@@ -8,6 +8,6 @@ f(x)=(x-1)^((x-2)^(x-3))
 I have found an example where we can observe differences in the Computer Algebra System (CAS).
 
 f(x)=(x-1)^((x-2)^(x-3))
-An interesting phenomenon appears when the value of x ranges from 1≤x<2 in the Iranian function.
+An interesting phenomenon appears when the value of x ranges from 1≤x<2 in the function.
 
 I came across this phenomenon, and as an ordinary high school student who is just interested in mathematics, I write it because I want to find out more about it.
